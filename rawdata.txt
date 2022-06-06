@@ -1,0 +1,130 @@
+Surname,FirstName,Gender,NID,Town_Village_City,Age,Comorbidities
+Alberto,Yohan,male,A347638474224,Rose Belle,66,none
+Costa Gomes,Chantal,female,C347638474225,Curepipe,63,hypertension
+Costa Gomes,Severine,female,C347638474226,Rose Belle,39,none
+Alberto,Kevin,male,A347638474227,Rose Belle,23,none
+Sharma,Olivier,male,S347638474228,Rose Belle,25,cirrosis
+Almeida,Melanie,female,A347638474229,Rose Belle,46,none
+Almeida,Sophie,female,A347638474230,Rose Belle,40,HIV
+Carvalho,Desire,male,C347638474231,Curepipe,47,none
+Carvalho,Joel,male,C347638474232,Curepipe,28,none
+Costa Gomes,Ra,female,C347638474233,Rose Belle,30,hypertension
+Abraham,Aureli,female,A347638474234,Rose Belle,50,HIV
+Albuquerque,Lindsay,male,A347638474235,Rose Belle,55,diabetes
+Sharma,Joana,female,S347638474236,Rose Belle,29,hypertension; diabetes
+Albuquerque,Sabrina,female,A347638474237,Curepipe,66,hypertension
+Alberto,Jason,male,A347638474238,Rose Belle,78,none
+Alberto,Paul,male,A347638474239,Rose Belle,72,none
+Engomada,Francisco Maria,male,E347638474240,Rose Belle,72,cirrosis
+Engomadinha,Joana,female,E347638474241,Rose Belle,41,none
+Abracos,Alicia,female,A347638474242,Rose Belle,46,none
+Losch,Jean-francois,male,L347638474243,Rose Belle,30,diabetes
+Losik,Maurine,female,L347638474244,Curepipe,79,none
+Sharma,Sandinen,male,S347638474245,Rose Belle,23,none
+Tiwari,Islandgems,female,T347638474246,Rose Belle,42,none
+Abracos,Nails,female,A347638474247,Rose Belle,55,none
+Abracos,Randriantsoaa,male,A347638474248,Curepipe,68,none
+Jean Claude,Saro,female,J347638474249,Rose Belle,40,HIV
+Jean Claude,Nathi,female,J347638474250,Rose Belle,43,none
+Tiwari,Cristina,female,T347638474251,Rose Belle,55,none
+Abraham,Curtis,male,A347638474252,Rose Belle,44,none
+Sharma,Linda,female,S347638474253,Curepipe,51,cirrosis
+Ando,Marie Laure,female,A347638474254,Rose Belle,33,diabetes; HIV
+Sharma,Rebecca,female,S347638474255,Rose Belle,75,hypertension
+Almeida,Linda,female,A347638474256,Rose Belle,58,none
+Almeida,Mirna,female,A347638474257,Rose Belle,64,diabetes; hypertension; HIV; cirrosis
+Carvalho,Clovis,male,C347638474258,Rose Belle,18,none
+Carvalho,Vanecia,female,C347638474259,Rose Belle,49,none
+Costa Gomes,Dorliska,female,C347638474260,Rose Belle,32,none
+Abraham,Mrone,male,A347638474261,Rose Belle,22,HIV
+Albuquerque,Rastaza,male,A347638474262,Rose Belle,30,none
+Sharma,Kalin,male,S347638474263,Rose Belle,37,diabetes
+Albuquerque,Antoaneta,female,A347638474264,Rose Belle,27,none
+Alberto,Emmanuel,male,A347638474265,Rose Belle,28,none
+Alberto,Emmanuel,male,A347638474266,Rose Belle,68,hypertension
+Engomada,Isabelle,female,E347638474267,Rose Belle,73,none
+Engomadinha,Jason,male,E347638474268,Rose Belle,36,diabetes
+Abracos,James,male,A347638474269,Rose Belle,67,cirrosis
+Losch,Pamela,female,L347638474270,New Grove,62,none
+Losik,Anna,female,L347638474271,New Grove,79,none
+Sharma,Murvyn,male,S347638474272,New Grove,69,none
+Tiwari,Nadine,female,T347638474273,Rose Belle,54,none
+Abracos,Sal Zai,male,A347638474274,Rose Belle,39,none
+Abracos,Zarina,female,A347638474275,Phoenix,54,none
+Albuquerque,Ashish,male,A347638474276,Phoenix,62,diabetes
+Sharma,Rajesh,male,S347638474277,Phoenix,31,none
+Albuquerque,Judex,male,A347638474278,Phoenix,31,none
+Alberto,Iqbal,male,A347638474279,Rose Belle,32,none
+Alberto,Salma,female,A347638474280,Rose Belle,67,none
+Engomada,Ashley,male,E347638474281,Rose Belle,30,HIV
+Engomadinha,Stellio,male,E347638474282,Rose Belle,80,none
+Abracos,Anisha,female,A347638474283,Rose Belle,28,diabetes
+Losch,Reza,male,L347638474284,Rose Belle,49,none
+Losik,NaDish,male,L347638474285,Reduit,29,none
+Sharma,Alvin,male,S347638474286,Rose Belle,78,none
+Tiwari,Catherine,female,T347638474287,Reduit,51,diabetes
+Abracos,Rafael,male,A347638474288,Rose Belle,73,cirrosis
+Abracos,Maria,female,A347638474289,Rose Belle,75,hypertension
+Jean Claude,Sylvia,female,J347638474290,Rose Belle,43,none
+Jean Claude,Raul,male,J347638474291,Rose Belle,70,none
+Tiwari,Andrew,male,T347638474292,Rose Belle,58,diabetes
+Abraham,Monica,female,A347638474293,Rose Belle,63,none
+Sharma,Armanio,male,S347638474294,Rose Belle,29,none
+Ando,Maria,female,A347638474295,Rose Belle,74,cirrosis
+Sharma,Joelle,female,S347638474296,Rose Belle,44,none
+Almeida,Michael,male,A347638474297,Reduit,78,diabetes
+Almeida,David,male,A347638474298,Rose Belle,64,hypertension
+Almeida,John,male,A347638474299,Rose Belle,60,none
+Almeida,varuna,female,A347638474300,Rose Belle,52,hypertension
+Carvalho,John,male,C347638474301,Rose Belle,31,none
+Carvalho,Darrel,male,C347638474302,Rose Belle,67,HIV
+Costa Gomes,Gerald,male,C347638474303,Rose Belle,55,none
+Abraham,Christine,female,A347638474304,Rose Belle,37,hypertension
+Albuquerque,Stephane,male,A347638474305,Curepipe,27,diabetes
+Sharma,Chrystelle,female,S347638474306,Curepipe,41,none
+Albuquerque,Stan,male,A347638474307,Curepipe,24,none
+Alberto,Ivans,male,A347638474308,Phoenix,80,none
+Alberto,Jenna,female,A347638474309,Curepipe,40,none
+Abraham,Virginie,female,A347638474310,Phoenix,49,diabetes
+Sharma,Michele,female,S347638474311,Curepipe,53,hypertension
+Ando,Georges Gurty,male,A347638474312,Curepipe,80,none
+Sharma,Rachelle,female,S347638474313,Curepipe,72,hypertension
+Almeida,Olivier,male,A347638474314,Curepipe,74,HIV; diabetes
+Almeida,Jane,female,A347638474315,Rose Belle,38,diabetes
+Carvalho,Aurelie Rachel,female,C347638474316,Rose Belle,18,cirrosis
+Carvalho,Jocelyn,male,C347638474317,Rose Belle,56,diabetes
+Costa Gomes,Armance,male,C347638474318,Phoenix,24,diabetes
+Abraham,Stephanie,female,A347638474319,Rose Belle,68,none
+Albuquerque,Edgar,male,A347638474320,Rose Belle,61,cirrosis; hypertension
+Sharma,Norlette,female,S347638474321,Rose Belle,48,none
+Albuquerque,Giovanni,male,A347638474322,Rose Belle,80,diabetes
+Alberto,Dany,female,A347638474323,Rose Belle,36,none
+Alberto,Jacqueline,female,A347638474324,Port Louis,68,hypertension
+Engomada,Marie,female,E347638474325,Rose Belle,46,none
+Engomadinha,Emmanuel,male,E347638474326,Rose Belle,64,cirrosis
+Abracos,Jean Eddy,male,A347638474327,Rose Belle,76,cirrosis
+Losch,Joana,female,L347638474328,Rose Belle,52,none
+Losiko,Amel,female,L347638474329,Rose Belle,32,cirrosis
+Sharma,Jennifer,female,S347638474330,Rose Belle,33,HIV
+Tiwari,John,male,T347638474331,Phoenix,71,diabetes
+Abracos,Elorie,female,A347638474332,Phoenix,52,HIV; hypertension; hypertension
+Abracos,Gwendaline,female,A347638474333,Phoenix,30,none
+Albuquerque,Anabelle,female,A347638474334,Phoenix,53,hypertension; HIV
+Sharma,Olivier,male,S347638474335,Rose Belle,62,none
+Albuquerque,Jean-marc,male,A347638474336,Rose Belle,34,none
+Alberto,Marie Noelle,male,A347638474337,Rose Belle,37,cirrosis
+Alberto,Judex,male,A347638474338,Rose Belle,45,none
+Engomada,Francois,male,E347638474339,Rose Belle,74,none
+Engomadinha,Fabien,male,E347638474340,Rose Belle,71,none
+Abracos,Ti la Vie,male,A347638474341,Rose Belle,80,hypertension
+Losch,Julia,female,L347638474342,Rose Belle,79,diabetes
+Losik,Ruben,male,L347638474343,Rose Belle,37,none
+Sharma,Tiago,male,S347638474344,Rose Belle,76,none
+Tiwari,Daniel,male,T347638474345,Rose Belle,23,none
+Abracos,Ricardo,male,A347638474346,Rose Belle,51,none
+Abracos,Micael,male,A347638474347,Rose Belle,29,hypertension; diabetes
+Jean Claude,Cristiana,female,J347638474348,Port Louis,80,hypertension
+Jean Claude,Ryben,male,J347638474349,Port Louis,69,none
+Tiwari,Fabien,male,T347638474350,Port Louis,63,none
+Abraham,Ruben,male,A347638474351,Port Louis,36,none
+Sharma,Mateus,male,S347638474352,Rose Belle,36,none
